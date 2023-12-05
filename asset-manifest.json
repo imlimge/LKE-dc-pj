@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/LKE-dc-pj/static/css/main.b1ed47fd.css",
-    "main.js": "/LKE-dc-pj/static/js/main.3b21ee67.js",
-    "static/media/Ubuntu-Regular.woff2": "/LKE-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
-    "static/media/UbuntuCondensed-Regular.woff2": "/LKE-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
-    "index.html": "/LKE-dc-pj/index.html",
-    "main.b1ed47fd.css.map": "/LKE-dc-pj/static/css/main.b1ed47fd.css.map",
-    "main.3b21ee67.js.map": "/LKE-dc-pj/static/js/main.3b21ee67.js.map"
+    "main.css": "/LKE-kairos/static/css/main.c767d644.css",
+    "main.js": "/LKE-kairos/static/js/main.3af1f884.js",
+    "static/media/LibreBaskerville-Italic.woff2": "/LKE-kairos/static/media/LibreBaskerville-Italic.d4e32215ccf1b8641903.woff2",
+    "static/media/LibreBaskerville-Bold.woff2": "/LKE-kairos/static/media/LibreBaskerville-Bold.e1014d99a2fe3ec8e216.woff2",
+    "static/media/back_letter.png": "/LKE-kairos/static/media/back_letter.4058a97e0a398ea9866b.png",
+    "static/media/CopperplateBold.woff": "/LKE-kairos/static/media/CopperplateBold.5fe19dce031e8a90eea3.woff",
+    "static/media/OPTICopperplate-Light.woff": "/LKE-kairos/static/media/OPTICopperplate-Light.fc80e2bf9846c28efdea.woff",
+    "static/media/OPTICopperplate.woff": "/LKE-kairos/static/media/OPTICopperplate.76616894eaf4f23ae295.woff",
+    "static/media/OPTICopperplate-Heavy.woff": "/LKE-kairos/static/media/OPTICopperplate-Heavy.0635e5d881b20b97b8c2.woff",
+    "index.html": "/LKE-kairos/index.html",
+    "main.c767d644.css.map": "/LKE-kairos/static/css/main.c767d644.css.map",
+    "main.3af1f884.js.map": "/LKE-kairos/static/js/main.3af1f884.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1ed47fd.css",
-    "static/js/main.3b21ee67.js"
+    "static/css/main.c767d644.css",
+    "static/js/main.3af1f884.js"
   ]
 }
